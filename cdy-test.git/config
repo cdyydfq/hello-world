@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	logallrefupdates = true
+[remote "origin"]
+	url = git@github:bx_reader/bx-reader-api.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
